@@ -4,7 +4,7 @@ This tool uses the [rembg](https://github.com/danielgatis/rembg) library to perf
 ## Run the app
 ```
 uv sync
-uv run rembg.py
+uv run remove_background.py
 ```
 
 ## Request
