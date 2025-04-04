@@ -1,0 +1,17 @@
+[project]
+name = "domestic-rembg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+	"aiohttp==3.11.11",
+	"fastapi>=0.115.11",
+	"jinja2==3.1.5",
+	"logging>=0.4.9.6",
+	"numba>=0.61.0",
+	"onnxruntime>=1.21.0",
+	"pillow>=11.1.0",
+	"rembg>=2.0.65",
+	"uvicorn>=0.34.0",
+]

@@ -1,0 +1,6 @@
+env/
+.env
+node_modules/
+secrets/
+DS_Store
+__pycache__/
