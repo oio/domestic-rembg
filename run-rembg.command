@@ -1,2 +1,2 @@
-cd /Users/roby/Desktop/oio-domestic-ai/oio-domestic-tools/domestic-rembg
+cd /Users/marta/Desktop/domestic-ai/domestic-tools/domestic-rembg
 uv run remove_background.py
